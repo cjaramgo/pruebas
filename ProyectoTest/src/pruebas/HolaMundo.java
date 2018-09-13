@@ -6,7 +6,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 		
 		int A = 1;
-		int B = 4;
+		int B = 5;
 		int resultado;
 		resultado = A + B;
 		System.out.println("El resultado es:" + resultado);
