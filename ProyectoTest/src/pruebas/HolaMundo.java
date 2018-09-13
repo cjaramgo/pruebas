@@ -5,8 +5,12 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hola Mundo, Soy Carlos Jaramillo");
-
+		int A = 1;
+		int B = 2;
+		int resultado;
+		resultado = A + B;
+		System.out.println("El resultado es:" + resultado);
+		
 	}
 
 }
